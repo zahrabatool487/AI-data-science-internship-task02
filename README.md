@@ -3,7 +3,7 @@
 ## Task 2: Exploring and Visualizing a Simple Dataset
 
 ## Introduction
-The Iris flower dataset is one of the most famous datasets in pattern recognition and machine learning literature. First introduced by British statistician and biologist **Ronald Fisher in 1936**, this dataset has become a standard benchmark for classification algorithms and data exploration techniques. It represents a classic problem in botanical taxonomy and serves as an excellent starting point for understanding fundamental data science concepts.
+The Iris flower dataset is one of the most famous datasets in pattern recognition and machine learning literature. First introduced by British statistician and biologist Ronald Fisher in 1936, this dataset has become a standard benchmark for classification algorithms and data exploration techniques. It represents a classic problem in botanical taxonomy and serves as an excellent starting point for understanding fundamental data science concepts.
 
 ---
 
